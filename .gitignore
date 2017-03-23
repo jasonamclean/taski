@@ -18,3 +18,5 @@
 
 # Hide secrets
 /config/secrets.yml
+
+/db/schema.rb
